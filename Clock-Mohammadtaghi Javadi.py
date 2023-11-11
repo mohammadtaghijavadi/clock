@@ -1,3 +1,5 @@
+#Clock - Mohammadtaghi Javadi
+
 from tkinter import *
 import time
 
